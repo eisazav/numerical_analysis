@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanalisis=self.webpackChunkanalisis||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"How to use the bot","permalink":"/numerical_analysis/blog/Bot"},{"title":"Welcome","permalink":"/numerical_analysis/blog/welcome"}]}')}}]);

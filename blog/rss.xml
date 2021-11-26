@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Numerical analysis Blog</title>
+        <link>https://eisazav.github.io/numerical_analysis/blog</link>
+        <description>Numerical analysis Blog</description>
+        <lastBuildDate>Fri, 26 Nov 2021 03:57:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How to use the bot]]></title>
+            <link>https://eisazav.github.io/numerical_analysis/blog/Bot</link>
+            <guid>Bot</guid>
+            <pubDate>Fri, 26 Nov 2021 03:57:28 GMT</pubDate>
+            <description><![CDATA[To use the bot, the discord application is required, an account Login to discord. and a server must be created in the application to be able to access the interface and interact with it, with the following link you can invite the bot and start using it invite bot.]]></description>
+            <content:encoded><![CDATA[<p>To use the bot, the discord application is required, an account <a href="https://discord.com/login">Login to discord</a>. and a server must be created in the application to be able to access the interface and interact with it, with the following link you can invite the bot and start using it <a href="https://discord.com/api/oauth2/authorize?client_id=908515743459582032&amp;permissions=8&amp;scope=bot">invite bot.</a></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://eisazav.github.io/numerical_analysis/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[The purpose of this website is to give a brief explanation about the project developed throughout the semester on the subject, numerical analysis, which was intended to implement the numerical methods seen throughout the course.]]></description>
+            <content:encoded><![CDATA[<p>The purpose of this website is to give a brief explanation about the project developed throughout the semester on the subject, numerical analysis, which was intended to implement the numerical methods seen throughout the course.</p><p>A brief mention is made of the fallen soldier Esneider Zapata Arias, who unfortunately did not reach the end of the course</p><p><img src="./soldier.jpg" alt="Docusaurus Plushie"/></p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

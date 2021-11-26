@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://eisazav.github.io/numerical_analysis/blog</id>
+    <title>Numerical analysis Blog</title>
+    <updated>2021-11-26T03:57:28.135Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://eisazav.github.io/numerical_analysis/blog"/>
+    <subtitle>Numerical analysis Blog</subtitle>
+    <icon>https://eisazav.github.io/numerical_analysis/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How to use the bot]]></title>
+        <id>Bot</id>
+        <link href="https://eisazav.github.io/numerical_analysis/blog/Bot"/>
+        <updated>2021-11-26T03:57:28.135Z</updated>
+        <summary type="html"><![CDATA[To use the bot, the discord application is required, an account Login to discord. and a server must be created in the application to be able to access the interface and interact with it, with the following link you can invite the bot and start using it invite bot.]]></summary>
+        <content type="html"><![CDATA[<p>To use the bot, the discord application is required, an account <a href="https://discord.com/login">Login to discord</a>. and a server must be created in the application to be able to access the interface and interact with it, with the following link you can invite the bot and start using it <a href="https://discord.com/api/oauth2/authorize?client_id=908515743459582032&amp;permissions=8&amp;scope=bot">invite bot.</a></p>]]></content>
+        <author>
+            <name>Emanuel Isaza Vera</name>
+        </author>
+        <author>
+            <name>Esneider Zapata Arias</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://eisazav.github.io/numerical_analysis/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The purpose of this website is to give a brief explanation about the project developed throughout the semester on the subject, numerical analysis, which was intended to implement the numerical methods seen throughout the course.]]></summary>
+        <content type="html"><![CDATA[<p>The purpose of this website is to give a brief explanation about the project developed throughout the semester on the subject, numerical analysis, which was intended to implement the numerical methods seen throughout the course.</p><p>A brief mention is made of the fallen soldier Esneider Zapata Arias, who unfortunately did not reach the end of the course</p><p><img src="./soldier.jpg" alt="Docusaurus Plushie"/></p>]]></content>
+        <author>
+            <name>Emanuel Isaza Vera</name>
+        </author>
+        <author>
+            <name>Esneider Zapata Arias</name>
+        </author>
+    </entry>
+</feed>
